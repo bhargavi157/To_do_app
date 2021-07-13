@@ -1,2 +1,2 @@
-# To_do_app
-To Do list and Ambient music app
+# Winternship Tasks
+Tasks done during Widhya Winternship
